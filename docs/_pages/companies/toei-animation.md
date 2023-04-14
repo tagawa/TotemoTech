@@ -14,6 +14,7 @@ employees: 840
 ticker_symbol: "TYO 4816"
 url: https://www.toei-anim.co.jp
 wikipedia: https://en.wikipedia.org/wiki/Toei_Animation
+twitter: toeianime_info
 parent_company_name: Toei Company, Ltd.
 parent_company_url: https://www.toei.co.jp
 permalink: /companies/toei-animation
