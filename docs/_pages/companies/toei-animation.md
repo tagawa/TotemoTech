@@ -7,12 +7,14 @@ summary: "Toei Animation Co., Ltd. is a Japanese animation production company an
 industries: "Animation"
 ipo_status: "Public company"
 ipo_date: 2000-12-08
-founded_date: 1948-01-23
+founding_date: 1948-01-23
 founders: "Kenzō Masaoka and Zenjirō Yamamoto"
 hq: "Oizumi, Nerima, Tokyo, Japan"
 employees: 840
-stock_symbol: "TYO: 4816"
-website: https://www.toei-anim.co.jp
+ticker_symbol: "TYO 4816"
+url: https://www.toei-anim.co.jp
 wikipedia: https://en.wikipedia.org/wiki/Toei_Animation
+parent_company_name: Toei Company, Ltd.
+parent_company_url: https://www.toei.co.jp
 permalink: /companies/toei-animation
 ---
