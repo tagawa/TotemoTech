@@ -1,6 +1,6 @@
 ---
 layout: company
-title: "About Toei Animation"
+title: "Toei Animation"
 legal_name: "Toei Animation Co., Ltd."
 japanese_name: "東映アニメーション株式会社"
 summary: "Toei Animation Co., Ltd. is a Japanese animation production company and a subsidiary of Toei Corporation. It's a member of the Japan Animation Association and the oldest existing animation production company in Japan."
