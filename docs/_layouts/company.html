@@ -6,7 +6,23 @@ layout: default
     <h1 class="u-full-width" >{{ page.title }}</h1>
     
     <p>{{ page.summary }}<p>
-       
-    <p><time datetime="{{ page.founded_date | date_to_xmlschema }}">{{ page.founded_date | date: "%b %-d, %Y" }}</time></p>
+    
+    <dl>
+        <dt>Legal name</dt><dd>{{ page.legal_name }}</dd>
+        <dt>Japanese name</dt><dd>{{ page.japanese_name }}</dd>
+        <dt>Industries</dt><dd>{{ page.industries }}</dd>
+        <dt>Founded</dt><dd><time datetime="{{ page.founded_date | date_to_xmlschema }}">{{ page.founded_date | date: "%b %-d, %Y" }}</time></dd>
+        <dt>Founders</dt><dd>{{ page.founders }}</dd>
+        <dt>HQ</dt><dd>{{ page.hq }}</dd>
+        <dt>Employees</dt><dd>{{ page.employees }}</dd>
+        <dt>IPO status</dt><dd>{{ page.ipo_status }}</dd>
+        <dt>IPO date</dt><dd><time datetime="{{ page.ipo_date | date_to_xmlschema }}">{{ page.ipo_date | date: "%b %-d, %Y" }}</time></dd>
+        <dt>Stock symbol</dt><dd>{{ page.stock_symbol }}</dd>
+    </dl>
+    
+    <ul>
+        <li><a href="{{ page.website }}" target="_blank" rel="noopener">Official website</a></li>
+        <li><a href="{{ page.wikipedia }}" target="_blank" rel="noopener">Wikipedia page</a></li>
+    </ul>
 
 </article>
