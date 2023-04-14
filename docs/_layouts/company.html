@@ -11,13 +11,13 @@ layout: default
         <dt>Legal name</dt><dd>{{ page.legal_name }}</dd>
         <dt>Japanese name</dt><dd>{{ page.japanese_name }}</dd>
         <dt>Industries</dt><dd>{{ page.industries }}</dd>
-        <dt>Founded</dt><dd><time datetime="{{ page.founded_date | date_to_xmlschema }}">{{ page.founded_date | date: "%b %-d, %Y" }}</time></dd>
+        <dt>Founded</dt><dd><time datetime="{{ page.founding_date | date_to_xmlschema }}">{{ page.founding_date | date: "%b %-d, %Y" }}</time></dd>
         <dt>Founders</dt><dd>{{ page.founders }}</dd>
         <dt>HQ</dt><dd>{{ page.hq }}</dd>
         <dt>Employees</dt><dd>{{ page.employees }}</dd>
         <dt>IPO status</dt><dd>{{ page.ipo_status }}</dd>
         <dt>IPO date</dt><dd><time datetime="{{ page.ipo_date | date_to_xmlschema }}">{{ page.ipo_date | date: "%b %-d, %Y" }}</time></dd>
-        <dt>Stock symbol</dt><dd>{{ page.stock_symbol }}</dd>
+        <dt>Stock symbol</dt><dd>{{ page.ticker_symbol }}</dd>
     </dl>
     
     <ul>
