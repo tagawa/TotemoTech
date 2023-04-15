@@ -11,7 +11,7 @@ founding_date: 1953-03-24
 founders: "Government of Japan (for the KDD branch) and Kazuo Inamori (for the DDI branch)"
 hq: "Iidabashi, Chiyoda-ku, Tokyo, Japan"
 employees: 49,000
-ticker_symbol: "TYO 9433"
+ticker_symbol: "9433"
 url: https://www.kddi.com
 wikipedia: https://en.wikipedia.org/wiki/KDDI
 twitter: official_kddi
