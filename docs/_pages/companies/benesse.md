@@ -8,7 +8,7 @@ industries: "Educational Services"
 ipo_status: "Public company"
 ipo_date: 2017-09-29
 founding_date: 2013-07-12
-founders: ""
+founders: "Tetsuhiko Fukutake"
 hq: "Okayama, Japan"
 employees: "Around 16,500"
 ticker_symbol: "9783"
