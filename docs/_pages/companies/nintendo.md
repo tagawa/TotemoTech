@@ -11,7 +11,7 @@ founding_date: 1889-09-23
 founders: "Fusajiro Yamauchi"
 hq: "11–1 Kamitoba Hokodatecho, Minami-ku, Kyoto, Japan"
 employees: "Around 7,000"
-ticker_symbol: "TYO 7974"
+ticker_symbol: "7974"
 url: https://www.nintendo.com
 wikipedia: https://en.wikipedia.org/wiki/Nintendo
 twitter: nintendo
