@@ -7,7 +7,7 @@ summary: "Belong specializes in the buying and selling of used smartphones. They
 industries: "Consumer products & services"
 ipo_status: "Unlisted company"
 ipo_date: 
-founding_date: 2019-02
+founding_date: 2019-02-01
 founders: "Daisuke Inoue"
 hq: "Sendagaya 5-8-10, Shibuya-ku, Tokyo, Japan"
 employees: 
