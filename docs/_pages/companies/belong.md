@@ -15,7 +15,7 @@ ticker_symbol:
 url: https://belong.co.jp
 wikipedia: 
 twitter: Belong_official
-parent_company_name: Itochu Shoji Corporation
+parent_company_name: "Itochu Shoji Corporation"
 parent_company_url: https://www.itochu.co.jp/en
 permalink: /companies/belong
 ---
