@@ -7,7 +7,8 @@
 
 # Site settings
 title: TotemoTech
-description: "TotemoTech brings you the latest tech news from Japan, powered by AI. This computer-generated daily podcast covers the most important tech stories from Japan with minimal human bias in easy-to-digest 2-minute episodes – listen while brushing your teeth!"
+#description: "TotemoTech brings you the latest tech news from Japan, powered by AI. This computer-generated daily podcast covers the most important tech stories from Japan with minimal human bias in easy-to-digest 2-minute episodes – listen while brushing your teeth!"
+description: "AI-generated 2-minute English summaries of Japan's tech news. Stay updated on trends & innovations in Japan's technology industry."
 subtitle: "Your daily dose of Japan's tech news – a podcast powered by AI"
 lang: en
 author: Daniel Davis
