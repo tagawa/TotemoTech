@@ -8,7 +8,7 @@ Credit for the site design goes to [Tim Klapdor](https://timklapdor.com/). This 
 
 ## Example Episode
 
-https://user-images.githubusercontent.com/94173/230608571-5a146983-b6d0-45a3-9322-85e88b29ebba.mp4
+https://user-images.githubusercontent.com/94173/232423014-056edcb0-cec7-4478-ad3a-7d0fea0044fd.mp4
 
 ## Tech Stack
 
@@ -18,6 +18,7 @@ https://user-images.githubusercontent.com/94173/230608571-5a146983-b6d0-45a3-932
 - News source: [ITmedia RSS feed](https://corp.itmedia.co.jp/media/rss_list/)
 - English-language summaries: [OpenAI API](https://platform.openai.com/)
 - Text-to-speech: [ElevenLabs API](https://beta.elevenlabs.io/)
+
 - Programming: Good ol’ Python ([source code](https://github.com/tagawa/JapanDailyNews))
 
 ![totemotech-flow](https://user-images.githubusercontent.com/94173/232421923-66a4f1e3-13bd-4761-95fb-909ace7453c8.png)
