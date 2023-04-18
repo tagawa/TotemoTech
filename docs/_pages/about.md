@@ -9,6 +9,8 @@ permalink: /about
 
 Encouraged by friends in the [Tokyo Tech](https://tokyotech.com) community, this podcast uses AI to generate natural English summaries of Japanese tech news stories, which are then converted into human-sounding speech. The result is short, easy-to-digest English tech news updates that are directly from a Japanese source.
 
+Simiarly, I also made a site and podcast providing [general news from Japan (Japan Daily News)](https://japandailynews.com).
+
 ### Technology used
 
 * Website: [GitHub pages](https://pages.github.com/) and the [Jekyll static site generator](https://jekyllrb.com/)
