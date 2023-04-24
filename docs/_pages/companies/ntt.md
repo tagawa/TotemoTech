@@ -12,7 +12,7 @@ founders: "Government of Japan"
 hq: "Otemachi, Chiyoda-ku, Tokyo, Japan"
 employees: 334,000
 ticker_symbol: "9432"
-url: https://group.ntt/en/
+website: https://group.ntt/en/
 wikipedia: https://en.wikipedia.org/wiki/Nippon_Telegraph_and_Telephone
 twitter: NTTPR
 parent_company_name: N/A

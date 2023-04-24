@@ -12,7 +12,7 @@ founders: "Kazufumi Watanabe"
 hq: "Ashiya House, Narihira-cho 5-2, Ashiya City, Hyogo Prefecture"
 employees: 
 ticker_symbol: 
-url: https://bcreation.jp
+website: https://bcreation.jp
 wikipedia: 
 twitter: 
 parent_company_name: N/A

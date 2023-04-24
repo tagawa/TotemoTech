@@ -12,7 +12,7 @@ founders: "Masaru Ibuka, Akio Morita"
 hq: "Sony City, Minato-ku, Tokyo, Japan"
 employees: "Around 110,000"
 ticker_symbol: "6758"
-url: https://www.sony.com/en/
+website: https://www.sony.com/en/
 wikipedia: https://en.wikipedia.org/wiki/Sony
 twitter: sony
 parent_company_name: N/A

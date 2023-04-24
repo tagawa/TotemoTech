@@ -12,7 +12,7 @@ founders: "Yōsuke Tsuji"
 hq: "3-1-21 Shibaura, Minato-ku, Tokyo, Japan"
 employees: "Around 900"
 ticker_symbol: "3994"
-url: https://moneyforward.com
+website: https://moneyforward.com
 wikipedia: https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%8D%E3%83%BC%E3%83%95%E3%82%A9%E3%83%AF%E3%83%BC%E3%83%89
 twitter: moneyforward
 parent_company_name: N/A

@@ -12,7 +12,7 @@ founders: "Tetsuhiko Fukutake"
 hq: "Okayama, Japan"
 employees: "Around 16,500"
 ticker_symbol: "9783"
-url: https://www.benesse-hd.co.jp/en/
+website: https://www.benesse-hd.co.jp/en/
 wikipedia: https://en.wikipedia.org/wiki/Benesse
 twitter: benesse_kyouiku
 parent_company_name: N/A

@@ -12,7 +12,7 @@ founders: "Keizo Fukui, Tsuneo Inui and Yoshihiko Miyauchi on behalf of Nichimen
 hq: "Kita-ku, Osaka, Japan"
 employees: "Around 33,000"
 ticker_symbol: "8591"
-url: https://www.orix.co.jp/grp/en/
+website: https://www.orix.co.jp/grp/en/
 wikipedia: https://en.wikipedia.org/wiki/Orix
 twitter: 
 parent_company_name: N/A

@@ -12,7 +12,7 @@ founders: "Ken Tamagawa"
 hq: "Sumitomo Fudosan Motoakasaka Bldg 1-5-12, Moto-akasaka, Minato-ku, Tokyo, Japan"
 employees: "Around 100"
 ticker_symbol: 
-url: https://soracom.com/
+website: https://soracom.com/
 wikipedia: 
 twitter: SORACOM_PR
 parent_company_name: N/A

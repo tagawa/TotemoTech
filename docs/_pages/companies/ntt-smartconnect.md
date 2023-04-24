@@ -12,7 +12,7 @@ founders: "NTT West"
 hq: "Grand Front Osaka Tower, Ofuka-cho 3-1, Kita-ku, Osaka, Japan"
 employees: "Around 250"
 ticker_symbol: 
-url: https://www.nttsmc.com/
+website: https://www.nttsmc.com/
 wikipedia: 
 twitter: 
 parent_company_name: NTT West

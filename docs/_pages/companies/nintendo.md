@@ -12,7 +12,7 @@ founders: "Fusajiro Yamauchi"
 hq: "11–1 Kamitoba Hokodatecho, Minami-ku, Kyoto, Japan"
 employees: "Around 7,000"
 ticker_symbol: "7974"
-url: https://www.nintendo.com
+website: https://www.nintendo.com
 wikipedia: https://en.wikipedia.org/wiki/Nintendo
 twitter: nintendo
 parent_company_name: N/A

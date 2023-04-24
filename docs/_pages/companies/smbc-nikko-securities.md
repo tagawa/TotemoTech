@@ -12,7 +12,7 @@ founders: "Genichi Toyama"
 hq: "Marunouchi 3-3-1, Chiyoda-ku, Tokyo 100-8325, Japan, Japan"
 employees: "Around 9,400"
 ticker_symbol: 
-url: https://www.smbcnikko.co.jp/en/
+website: https://www.smbcnikko.co.jp/en/
 wikipedia: https://en.wikipedia.org/wiki/SMBC_Nikko_Securities
 twitter: smbcnikko_jp
 parent_company_name: "Sumitomo Mitsui Financial Group"

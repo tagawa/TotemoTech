@@ -12,7 +12,7 @@ founders: "Daisuke Inoue"
 hq: "Sendagaya 5-8-10, Shibuya-ku, Tokyo, Japan"
 employees: 
 ticker_symbol: 
-url: https://belong.co.jp
+website: https://belong.co.jp
 wikipedia: 
 twitter: Belong_official
 parent_company_name: "Itochu Shoji Corporation"

@@ -12,7 +12,7 @@ founders: "Kenzō Masaoka and Zenjirō Yamamoto"
 hq: "Oizumi, Nerima, Tokyo, Japan"
 employees: 840
 ticker_symbol: "4816"
-url: https://www.toei-anim.co.jp
+website: https://www.toei-anim.co.jp
 wikipedia: https://en.wikipedia.org/wiki/Toei_Animation
 twitter: toeianime_info
 parent_company_name: Toei Company, Ltd.

@@ -12,7 +12,7 @@ founders:
 hq: "Marunouchi 1-1-2, Chiyoda-ku, Tokyo 100-8325, Japan, Japan"
 employees: "Around 87,000"
 ticker_symbol: 8316
-url: https://www.smbc.co.jp
+website: https://www.smbc.co.jp
 wikipedia: https://en.wikipedia.org/wiki/Sumitomo_Mitsui_Banking_Corporation
 twitter: 
 parent_company_name: 
