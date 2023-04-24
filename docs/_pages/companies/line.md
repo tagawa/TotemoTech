@@ -12,7 +12,7 @@ founders: "Yang Hyun Chun (Ryunosuke Sen) and Beom-soo Kim (Brian Kim) on behalf
 hq: "Shinjuku, Tokyo, Japan"
 employees: "Around 3,100"
 ticker_symbol: 
-url: https://linecorp.com
+website: https://linecorp.com
 wikipedia: https://en.wikipedia.org/wiki/Line_Corporation
 twitter: LINEjp_official
 parent_company_name: "Z Holdings Corporation"
