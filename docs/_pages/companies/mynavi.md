@@ -18,4 +18,4 @@ twitter: mynavi_PR
 parent_company_name: N/A
 parent_company_url: 
 permalink: /companies/mynavi
-...
+---
